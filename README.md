@@ -80,7 +80,7 @@ You can integrate this as a Claude Code hook to receive affirmations during your
 }
 ```
 
-3. Now every time you submit a prompt to Claude Code, you'll receive an affirmation!
+3. Now every time you submit a prompt to Claude Code, Claude will receive an affirmation!
 
 ### Adding New Collections
 
