@@ -22,8 +22,32 @@
       "title": "The Harder They Come - Jimmy Cliff",
       "line": "As sure as the sun will shine, I'm gonna get my share now, what's mine",
       "index": 0
+    },
+    {
+      "collection": "jimmy_cliff_harder_they_come",
+      "title": "The Harder They Come - Jimmy Cliff",
+      "line": "The harder they come, the harder they fall, one and all",
+      "index": 1
+    },
+    {
+      "collection": "jimmy_cliff_harder_they_come",
+      "title": "The Harder They Come - Jimmy Cliff",
+      "line": "I'd rather be a free man in my grave than living as a puppet or a slave",
+      "index": 2
+    },
+    {
+      "collection": "jimmy_cliff_harder_they_come",
+      "title": "The Harder They Come - Jimmy Cliff",
+      "line": "I keep on fighting for the things I want",
+      "index": 3
+    },
+    {
+      "collection": "jimmy_cliff_harder_they_come",
+      "title": "The Harder They Come - Jimmy Cliff",
+      "line": "Forgive them Lord, they know not what they've done",
+      "index": 4
     }
   ],
   "current_collection": "jimmy_cliff_harder_they_come",
-  "current_index": 1
+  "current_index": 5
 }
