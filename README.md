@@ -71,7 +71,7 @@ You can integrate this as a Claude Code hook to receive affirmations during your
         "hooks": [
           {
             "type": "command",
-            "command": "python /home/andrew/src/affimations/affirmation.py"
+            "command": "python /home/username/src/affimations/affirmation.py"
           }
         ]
       }
